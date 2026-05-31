@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "6N Twin-Prime Conditional Density: data, code, and a factor-resolved local model"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-05-31"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-twin-prime-conditional-density"
+keywords:
+  - twin primes
+  - Hardy-Littlewood singular series
+  - conditional density
+  - experimental mathematics
+  - prime distribution
+references:
+  - type: article
+    authors:
+      - family-names: Puszkarz
+        given-names: Waldemar
+    title: "Statistical bias in the distribution of prime pairs and isolated primes"
+    year: 2018
+    notes: "arXiv:1807.00406 — prior work establishing the phenomenon modelled here."
